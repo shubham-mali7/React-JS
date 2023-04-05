@@ -1,0 +1,31 @@
+React 
+
+> Is javascript library which helps to build single page application using component based structure
+
+3 types of components :
+
+Function 
+> Dumb Component
+> Mainly used for display purpose 
+> cannot maintain the state 
+
+Class
+> logical component 
+> use logic as well as display 
+> can maintain state
+
+Hooks 
+> Its alternate to Class
+> looks like function component 
+> But can do all work of class component 
+
+////////////
+
+State 
+> state act like a local variable 
+> any data interaction will happen through satte only and 
+> we can update the value of state
+
+Props 
+> Use to transfer data between 2 nested data 
+> We cannot update the value of props 
